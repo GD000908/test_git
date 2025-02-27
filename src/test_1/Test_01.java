@@ -7,6 +7,8 @@ public class Test_01 {
 		System.out.print("wewfdwe");		
 		System.out.print("wewfdwe");		
 		System.out.print("wewfdwe");		
+		System.out.print("wewfdwe");	
+		
 	}
 
 }
